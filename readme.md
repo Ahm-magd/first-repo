@@ -1,2 +1,2 @@
 # Introduction
-this my first reop ever 
+This my first repo ever 
